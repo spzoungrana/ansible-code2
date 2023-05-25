@@ -1,0 +1,5 @@
+.cache/
+.local/
+.vscode-server/
+.web1.yml.swp
+
